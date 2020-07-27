@@ -4,7 +4,11 @@
 
 [前端地址](https://github.com/liuxiansen-China/score-manager-ui)
 
+线上体验地址： sdut.redarm.cn 用户名：admin 密码：123
 
+作者博客：  redarm.cn
+
+[开发部署参考文档](http://redarm.cn/archives/课程设计-学生成绩管理系统)
 
 ### 实现的功能
 
