@@ -2,6 +2,10 @@
 
 大三课程设计，如果你的课程设计也是这个题目，可以拿来参考。
 
+[前端地址](https://github.com/liuxiansen-China/score-manager-ui)
+
+
+
 ### 实现的功能
 
 - 学生成绩管理
@@ -24,7 +28,13 @@
 
 数据库MySQL和Redis
 
-### 使用教程
+### 运行截图
 
+![iShot2020-07-24上午08.01.14](http://redarm.cn/upload/2020/07/iShot2020-07-24%E4%B8%8A%E5%8D%8808.01.14-1f6974061bbc4a259e366b91e2e14831.png)
 
+![iShot2020-07-24上午08.01.24](http://redarm.cn/upload/2020/07/iShot2020-07-24%E4%B8%8A%E5%8D%8808.01.24-a00ff627d38a4f9aa6950c1d3d7fffc1.png)
+
+![iShot2020-07-24上午08.01.31](http://redarm.cn/upload/2020/07/iShot2020-07-24%E4%B8%8A%E5%8D%8808.01.31-1ef890b5c81c419da3c1fc5058a51cb7.png)
+
+![iShot2020-07-24上午08.01.43](http://redarm.cn/upload/2020/07/iShot2020-07-24%E4%B8%8A%E5%8D%8808.01.43-916e8c7455e049129b98277ccad7b0f7.png)
 

@@ -4,9 +4,9 @@ server:
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    username: root
-    password:
-    url: jdbc:mysql://:3306/scoreDB?useUnicode=true&characterEncoding=utf-8
+    username: MySQL数据库用户名
+    password: MySQL数据库密码
+    url: jdbc:mysql://数据库地址:3306/scoreDB?useUnicode=true&characterEncoding=utf-8
 
     type: com.alibaba.druid.pool.DruidDataSource
     druid:
@@ -42,11 +42,11 @@ spring:
 
   redis:
     port: 6379
-    password:
-    host:
+    password: redis密码
+    host: 主机地址
   mail:
-    username:
-    password:
+    username: qq邮箱
+    password: qq邮箱密码
     host: smtp.qq.com
     properties.mail.smtp.ssl.enable: true
 
