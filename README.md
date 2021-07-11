@@ -8,7 +8,7 @@
 
 作者博客：  redarm.cn
 
-[开发部署参考文档](http://redarm.cn/archives/课程设计-学生成绩管理系统)
+[开发部署参考文档](http://blog.redarm.cn/archives/课程设计-学生成绩管理系统)
 
 ### 实现的功能
 
@@ -32,13 +32,5 @@
 
 数据库MySQL和Redis
 
-### 运行截图
 
-![iShot2020-07-24上午08.01.14](http://redarm.cn/upload/2020/07/iShot2020-07-24%E4%B8%8A%E5%8D%8808.01.14-1f6974061bbc4a259e366b91e2e14831.png)
-
-![iShot2020-07-24上午08.01.24](http://redarm.cn/upload/2020/07/iShot2020-07-24%E4%B8%8A%E5%8D%8808.01.24-a00ff627d38a4f9aa6950c1d3d7fffc1.png)
-
-![iShot2020-07-24上午08.01.31](http://redarm.cn/upload/2020/07/iShot2020-07-24%E4%B8%8A%E5%8D%8808.01.31-1ef890b5c81c419da3c1fc5058a51cb7.png)
-
-![iShot2020-07-24上午08.01.43](http://redarm.cn/upload/2020/07/iShot2020-07-24%E4%B8%8A%E5%8D%8808.01.43-916e8c7455e049129b98277ccad7b0f7.png)
 
